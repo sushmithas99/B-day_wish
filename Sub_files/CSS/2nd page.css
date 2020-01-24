@@ -56,4 +56,21 @@ p:hover {
     color: purple;
 }
 
-;
+img.para_img
+{
+    height:320px;
+    width:250px; 
+}
+img.left_img
+{
+    float:left;
+    height:200px;
+    width:150px;
+
+}
+img.right_img{
+    float:right;
+    height:200px;
+    width:150px;
+
+}
